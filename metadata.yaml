@@ -1,0 +1,34 @@
+_repo: Hunt-the-Hunter_51433
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: MacIntyre, Elizabeth
+    gutenberg_agent_id: '48924'
+    url: http://www.gutenberg.org/2009/agents/48924
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: 1925
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Hunting stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Hunt the Hunter
+url: http://www.gutenberg.org/ebooks/51433
