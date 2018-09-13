@@ -5,6 +5,9 @@ contributor:
     agent_name: MacIntyre, Elizabeth
     gutenberg_agent_id: '48924'
     url: http://www.gutenberg.org/2009/agents/48924
+covers:
+- cover_type: archival
+  image_path: 51433-h/images/cover.jpg
 creator:
   author:
     agent_name: Neville, Kris
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25913
     wikipedia: http://en.wikipedia.org/wiki/Kris_Ottman_Neville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51433#Hunt-the-Hunter
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-13'
 gutenberg_type: Text
